@@ -1,0 +1,14 @@
+This project is used to test:
+    1. Chapter 5(Initialization & Cleanup) in "Thinking in Java"
+    2. Exercise solutions of chapter 5
+    
+Chapter 5:
+	- constructor
+	- method overloading
+	- default constructor
+	- this 
+	- clean up
+	- garbage collection
+	- member initialization
+	- constructor initialization
+	- array initialization

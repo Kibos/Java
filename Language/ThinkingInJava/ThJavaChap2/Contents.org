@@ -1,0 +1,18 @@
+第２章　一切都是对象
+
+2.1 用引用操作对象
+区分引用和对象
+#+BEGIN_SRC java
+//s是一个引用
+ String s;
+//t是一个对象
+ String t = "abc"
+#+END_SRC
+
+2.2 必须由你创建所有对象
+  - 基本类型：boolean,char,byte,int... 存储在栈中
+  - BigInteger和BigDecimal可以用于高精度计算
+
+2.7 第一个Java程序
+  - java.lang 默认导入每个Java文件
+  - java doc 中选择Tree会显示所有类，方便查找一个类属于哪个包

@@ -1,0 +1,12 @@
+This project is used to test:
+    1. Chapter 4(Controlling Execution) in "Thinking in Java"
+    2. Usage of if-else, while, for 
+    3. Exercise solutions of chapter 4
+    
+Chapter 4:Controlling Execution
+	- true and false
+	- if-else
+	- while,for
+	- return
+	- break, continue
+	- switch
